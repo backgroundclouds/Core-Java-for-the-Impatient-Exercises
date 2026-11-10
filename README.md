@@ -4,14 +4,14 @@ This repository contains my personal solutions for selected exercises from *Core
 
 ## Repository Structure
 
-Exercises are organized by chapter. Each file corresponds to a specific exercise from the textbook.
+Exercises are organized by chapter. To date selected exercises from Chapter 1 are present, more chapters may be added in the future. Each file corresponds to a specific exercise from the textbook.
 
 * `/chapter-01`: Fundamental Programming Structures (Completed)
-* *(More chapters will be added periodically)*
+* *(More chapters TBD)*
 
 ## Running the Code
 
-To date selected exercises from Chapter 1 are present. More may be added in the future. All exercises written as standalone Java classes, compile and run directly from command line.
+All exercises written as standalone Java classes, compile and run directly from command line.
 
 ```bash
 javac Exercise1.java
