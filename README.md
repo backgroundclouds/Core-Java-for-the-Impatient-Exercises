@@ -22,4 +22,4 @@ java Exercise1 <optional arguments>
 
 #### Chapter 1
 ##### Note on Exercise 16
-Exercise 16 (the "Quine" challenge) is mistitled Fuckall.java for stylistic effect of the Quine being created.
+Exercise 16 (the "Quine" challenge) is mistitled `Fuckall.java` for stylistic effect of the Quine output.
