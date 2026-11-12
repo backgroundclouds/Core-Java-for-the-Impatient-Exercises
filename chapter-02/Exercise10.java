@@ -11,7 +11,7 @@ public static void main(String[] args){
         car.PumpGas(10);
         car.Drive(100);
 
-        System.out.println("My car is capable of driving " + car.maxRange + " miles on a full tank.");
+        System.out.println("My car is capable of driving " + car.getMaxRange() + " miles on a full tank.");
         return;
     }
 }
