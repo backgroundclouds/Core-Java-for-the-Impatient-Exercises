@@ -1,13 +1,13 @@
 # Core Java for the Impatient (3rd Edition) - Exercises
 
-This repository contains my personal solutions for selected exercises from *Core Java for the Impatient (3rd Edition)* by Cay S. Horstmann. 
+This repository contains solutions for selected exercises from *Core Java for the Impatient (3rd Edition)* by Cay S. Horstmann. 
 
 ## Repository Structure
 
-Exercises are organized by chapter. To date selected exercises from Chapter 1 are present, more chapters may be added in the future. Each file corresponds to a specific exercise from the textbook.
+Organized by chapter. Selected exercises present. More may be added in the future.
 
-* `/chapter-01`: Fundamental Programming Structures (Completed)
-* *(More chapters TBD)*
+* `/chapter-01`: Fundamental Programming Structures
+* `/chapter-02`: Object-Oriented Programming* 
 
 ## Running the Code
 
@@ -18,7 +18,8 @@ javac Exercise1.java
 java Exercise1 <optional arguments>
 ```
 
-### Misc Notes 
+### Misc. Notes on Exercises
 
-#### Note on Exercise 16
-Exercise 16 (the "Quine" challenge) is mistitled Fuckall.java for stylistic effect of the Quine being created.
+#### Chapter 1
+##### Note on Exercise 16
+Exercise 16 (the "Quine" challenge) is mistitled `Fuckall.java` for stylistic effect of the Quine output.
