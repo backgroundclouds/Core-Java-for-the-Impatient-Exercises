@@ -7,7 +7,8 @@ This repository contains solutions for selected exercises from *Core Java for th
 Organized by chapter. Selected exercises present. More may be added in the future.
 
 * `/chapter-01`: Fundamental Programming Structures
-* `/chapter-02`: Object-Oriented Programming* 
+* `/chapter-02`: Object-Oriented Programming
+* `/chapter-03`: Intefaces and Lambda Expressions* 
 
 ## Running the Code
 
